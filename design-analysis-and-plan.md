@@ -6,9 +6,9 @@
   
 **Concise Messaging** – The main tagline clearly communicates the platform’s AI-driven capabilities without overwhelming the user.
 
-![tagline]({3E02E891-755E-4700-8B32-9A4FAF26F63C}.png)
+![tagline](tagline.png)
 
-![clear goal communication]({A3801F2F-3ECF-490D-A3E6-AE504265F378}.png)
+![clear goal communication](goals.png)
 
 
 **Engaging Animations & Effects** – Smooth transitions and micro-interactions make the page feel dynamic.  
