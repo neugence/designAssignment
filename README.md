@@ -38,8 +38,20 @@ Feel free to **personalize** these challenges as long as you demonstrate thought
 
 ## 3. Create a Pull Request with Figma Link
 Once you’re done, create a **Pull Request** in your forked repo containing only:
-- A **Figma link** to your design (make sure it’s viewable).  
-- Any brief notes you want to share (optional).
+- A **Figma link** to my design (made sure it’s viewable).  
+  🔗 [View My Design on Figma](https://www.figma.com/design/QqZc6YvarqNblvaGLFcnma/AceHub.ai-Redesign?node-id=0-1&t=M8RLDeiITv4ciu5N-1)  
+- Hi Team,  
+  I've redesigned the header section of the AceHub.ai landing page, focusing on:
+- Improved structure and layout  
+- Better typography and color balance  
+- Enhanced CTA visibility  
+- Responsive design adjustments
+- Let me know if you’d like any changes. I'm open to suggestions.
+
+🔗 *Figma Link:* [https://www.figma.com/design/QqZc6YvarqNblvaGLFcnma/AceHub.ai-Redesign?node-id=0-1&t=F7sL47y9kHph9QRV-1]  
+
+Let me know if you have any feedback!
+
 
 No code changes are necessary—just the link to your Figma work.
 
