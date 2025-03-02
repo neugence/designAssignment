@@ -1,5 +1,5 @@
 # Neugence UI / UX Design Challenge
-
+I am doing some changes in the given assignment.
 Welcome to our **UI/UX Design Challenge**! We're excited to see how you **enhance** and **improve** the [AceHub.ai](https://aceHub.ai) landing page. This challenge tests your **visual design**, **user experience thinking**, and **creative problem-solving** skills.
 
 ---
