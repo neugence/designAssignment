@@ -38,7 +38,9 @@ Feel free to **personalize** these challenges as long as you demonstrate thought
 
 ## 3. Create a Pull Request with Figma Link
 Once you’re done, create a **Pull Request** in your forked repo containing only:
-- A **Figma link** to your design (make sure it’s viewable).  
+- A **Figma link** to your design (make sure it’s viewable).
+- https://www.figma.com/design/ghWJCi7Kgeh1HNsshFjFUQ/Untitled?node-id=0-1&t=dwrq3RcV5soMydwZ-1
+- I have redesigned the Header & Home section of AceHub.ai for better usability, accessibility, and engagement.
 - Any brief notes you want to share (optional).
 
 No code changes are necessary—just the link to your Figma work.
